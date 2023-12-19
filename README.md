@@ -1,1 +1,2 @@
 # AD_project_Sevcenco
+This reserch focuses on developing predictive models for heart disease using a comprehensive dataset. It aims to identify significant predictors of heart disease, construct and validate a predictive model, and optimize it for maximum performance. The analysis includes exploratory data analysis, logistic regression, and evaluation of models using various statistical metrics. The findings contribute to early diagnosis strategies and preventive measures in cardiovascular health.
